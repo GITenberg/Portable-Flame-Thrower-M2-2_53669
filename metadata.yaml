@@ -1,0 +1,29 @@
+_repo: Portable-Flame-Thrower-M2-2_53669
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. War Department
+    aliases:
+    - Department, U. S. War
+    - United States. War Dept.
+    - Dept., United States. War
+    - Department, United States. War
+    gutenberg_agent_id: '3745'
+    url: http://www.gutenberg.org/2009/agents/3745
+description: ''
+gutenberg_issued: '2016-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'War Department Technical Manual: TM 3-376 A'
+subjects:
+- !lcsh 'United States. Army -- Equipment -- Handbooks, manuals, etc.'
+- !lcsh 'Flame throwers -- Handbooks, manuals, etc.'
+- !lcc 'UG'
+- GITenberg
+title: Portable Flame Thrower M2-2
+url: http://www.gutenberg.org/ebooks/53669
